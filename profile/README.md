@@ -7,7 +7,6 @@
 
 [![Group](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MDGramClub)ㅤ [![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MDMods_You)
 
-<a href="https://github.com/MDGramYou/MDGramYou/releases"><img src="https://img.shields.io/github/downloads/MDGramYou/MDGramYou/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 </p>
 
 </div>
@@ -73,4 +72,4 @@ Credits:
 <br>
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download-MDGramYou%20-green?style=for-the-badge&logo=appveyor)](https://github.com/MDGramYou/MDGramYou)
+[![Download](https://img.shields.io/badge/Download-MDGramYou%20-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/MDGramYou/MDGramYou)
