@@ -67,6 +67,13 @@ Credits:
 - [OWlGram](https://github.com/OwlGramDev)
 - [MDGramYou TEAM](https://github.com/MDGram)
 </details>
+
+<details>
+ <summary>Preview</summary>
+
+[![@Preview](https://rcmods-apps.xyz/wp-content/uploads/2022/05/Recurso-72mpd-1024x659.png)](https://github.com/MDGramYou)
+
+</details>
 <br>
 <br>
 <br>
