@@ -3,7 +3,7 @@
 <h4>Welcome To MDGram Organisation</h4>
  </b>
 
-[<img src="https://github.com/MDGramYou/.github/blob/main/resources/Logo.png" align="centre" width="200" height="200"/>]()
+[<img src="https://github.com/MDGramYou/.github/blob/main/resources/Logo.png" align="centre" width="200" height="200"/>](https://github.com/ikx7a)
 
 [![Group](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MDGramClub)ㅤ [![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MDMods_You)
 
